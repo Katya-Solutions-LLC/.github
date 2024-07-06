@@ -30,6 +30,9 @@
 
 ## Porosenochek for Customer
 
+[Поросёночек.pdf](https://github.com/user-attachments/files/16116451/default.pdf)
+
+
 ### Overview
 
 **Porosenochek for Customer** is a revolutionary mobile application designed to simplify and enhance the experience of managing pet care services for pet owners. The app provides a seamless platform for booking, tracking, and managing various pet care services, ensuring that pet owners can provide the best possible care for their pets with minimal effort.
