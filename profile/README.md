@@ -1,9 +1,10 @@
 ## Hi there 👋
 
+![346279326-6dae3000-d595-44de-b357-0de22ecd917f](https://github.com/user-attachments/assets/d6ba662a-e74e-4ecb-93fe-a9fbc2a7f101)
+
 # Katya Solutions, LLC Projects
 
 ![Porosenocheck](https://github.com/Katya-Solutions-LLC/.github-private/assets/43252008/6dae3000-d595-44de-b357-0de22ecd917f)
-
 
 ## Table of Contents
 1. [Porosenochek for Customer](#porosenochek-for-customer)
